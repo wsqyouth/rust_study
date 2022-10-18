@@ -1,0 +1,11 @@
+/home/coopers/workspace/rust_study/hello/target/debug/deps/socket2-ea1016f31975b25c.rmeta: /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs
+
+/home/coopers/workspace/rust_study/hello/target/debug/deps/libsocket2-ea1016f31975b25c.rlib: /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs
+
+/home/coopers/workspace/rust_study/hello/target/debug/deps/socket2-ea1016f31975b25c.d: /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs /home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs
+
+/home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs:
+/home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs:
+/home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs:
+/home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs:
+/home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs:

@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=/home/coopers/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/html5ever-0.25.2/src/tree_builder/rules.rs
